@@ -1,0 +1,173 @@
+{
+    "0": {
+        "name": "argentina",
+        "ranking": 10,
+        "pointsScored": 98,
+        "pointsConceded": 145,
+        "triesScored": 17,
+        "triesConceded": 19,
+        "points": 10
+    },
+    "1": {
+        "name": "australia",
+        "ranking": 6,
+        "pointsScored": 120,
+        "pointsConceded": 110,
+        "triesScored": 14,
+        "triesConceded": 23,
+        "points": 12
+    },
+    "2": {
+        "name": "canada",
+        "ranking": 22,
+        "pointsScored": 128,
+        "pointsConceded": 97,
+        "triesScored": 21,
+        "triesConceded": 15,
+        "points": 11
+    },
+    "3": {
+        "name": "england",
+        "ranking": 11,
+        "pointsScored": 117,
+        "pointsConceded": 92,
+        "triesScored": 22,
+        "triesConceded": 16,
+        "points": 8
+    },
+    "4": {
+        "name": "france",
+        "ranking": 8,
+        "pointsScored": 100,
+        "pointsConceded": 90,
+        "triesScored": 16,
+        "triesConceded": 17,
+        "points": 12
+    },
+    "5": {
+        "name": "georgia",
+        "ranking": 14,
+        "pointsScored": 0,
+        "pointsConceded": 0,
+        "triesScored": 0,
+        "triesConceded": 0,
+        "points": 0
+    },
+    "6": {
+        "name": "ireland",
+        "ranking": 4,
+        "pointsScored": 0,
+        "pointsConceded": 0,
+        "triesScored": 0,
+        "triesConceded": 0,
+        "points": 0
+    },
+    "7": {
+        "name": "italy",
+        "ranking": 12,
+        "pointsScored": 0,
+        "pointsConceded": 0,
+        "triesScored": 0,
+        "triesConceded": 0,
+        "points": 0
+    },
+    "8": {
+        "name": "japan",
+        "ranking": 7,
+        "pointsScored": 0,
+        "pointsConceded": 0,
+        "triesScored": 0,
+        "triesConceded": 0,
+        "points": 0
+    },
+    "9": {
+        "name": "namibia",
+        "ranking": 23,
+        "pointsScored": 0,
+        "pointsConceded": 0,
+        "triesScored": 0,
+        "triesConceded": 0,
+        "points": 0
+    },
+    "10": {
+        "name": "new-zealand",
+        "ranking": 1,
+        "pointsScored": 0,
+        "pointsConceded": 0,
+        "triesScored": 0,
+        "triesConceded": 0,
+        "points": 0
+    },
+    "11": {
+        "name": "russia",
+        "ranking": 20,
+        "pointsScored": 0,
+        "pointsConceded": 0,
+        "triesScored": 0,
+        "triesConceded": 0,
+        "points": 0
+    },
+    "12": {
+        "name": "samoa",
+        "ranking": 15,
+        "pointsScored": 0,
+        "pointsConceded": 0,
+        "triesScored": 0,
+        "triesConceded": 0,
+        "points": 0
+    },
+    "13": {
+        "name": "scotland",
+        "ranking": 9,
+        "pointsScored": 0,
+        "pointsConceded": 0,
+        "triesScored": 0,
+        "triesConceded": 0,
+        "points": 0
+    },
+    "14": {
+        "name": "south-africa",
+        "ranking": 5,
+        "pointsScored": 0,
+        "pointsConceded": 0,
+        "triesScored": 0,
+        "triesConceded": 0,
+        "points": 0
+    },
+    "15": {
+        "name": "tonga",
+        "ranking": 13,
+        "pointsScored": 0,
+        "pointsConceded": 0,
+        "triesScored": 0,
+        "triesConceded": 0,
+        "points": 0
+    },
+    "16": {
+        "name": "uruguay",
+        "ranking": 18,
+        "pointsScored": 0,
+        "pointsConceded": 0,
+        "triesScored": 0,
+        "triesConceded": 0,
+        "points": 0
+    },
+    "17": {
+        "name": "usa",
+        "ranking": 17,
+        "pointsScored": 0,
+        "pointsConceded": 0,
+        "triesScored": 0,
+        "triesConceded": 0,
+        "points": 0
+    },
+    "18": {
+        "name": "wales",
+        "ranking": 2,
+        "pointsScored": 0,
+        "pointsConceded": 0,
+        "triesScored": 0,
+        "triesConceded": 0,
+        "points": 0
+    }
+}

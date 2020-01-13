@@ -1,0 +1,9 @@
+Platform: Windows 10 Home, Version 1903
+Programming Language: Python 3.7.0
+
+Question 2:
+- Pathlib
+- Json
+
+Question 3:
+- Pathlib

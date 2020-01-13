@@ -1,0 +1,9 @@
+As noted under the final print. Any usage of punctuation will ruin the system.
+In an ideal system this would all be stripped from the input however currently I am not due to time constraints.
+Another thing to note is that any words under 5 characters long are to be treated as highly
+unaccurate and will most likely throw a false positive as a maori word due to a lack of structure
+outside of simple letters within the maori alphabet
+
+This algorithm can be expected to work fairly accurately in situations where it is feed the right input.
+This input should contain no punctuation and words are ideally longer than 5 characters long.
+Input can be either case.

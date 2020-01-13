@@ -1,0 +1,6 @@
+Again, due to time constraints this program is limited by any punctuation.
+In order to get the best output please only input words separated by spaces
+
+I have found this program to be highly successful at distinguishing between
+english and maori lines. It also features a couple conditions where if it can't
+decide for itself it will notify the user based on the confidence factors.

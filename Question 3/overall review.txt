@@ -1,0 +1,18 @@
+A best case approach would be to combine both algorithm's work off of a combined confidence factor
+but, I think, provided that both programs are given the ability to strip punctuation
+from any input before handling it, then both programs accuracy would sky rocket.
+
+I personally think that the program to check against common words is the most
+successful because it doesn't rely on a per character basis, which can be easily
+beaten by smaller english words that fit into the maori alphabet.
+
+Going forward with NLP, I would first start with a common word check, after which
+I would check the given confidence factors and if it is not satisfactory I would
+then proceed to check characters against the maori alphabet as seen in the first
+program before combining the two outputs for a final, accurate decision.
+
+
+If I have time towards the end of this exam I will endeavor to revisit these
+programs and address the inherent punctuation issues, however, since this is
+the first question I am attempting I do not feel comfortable staying on this longer
+than the time I already have.
